@@ -1,0 +1,44 @@
+{
+  "name": "testBluetoohPrinter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "html-to-image": "^0.1.1",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-bluetooth-escpos-printer": "git+https://github.com/rafikrafael/react-native-bluetooth-escpos-printer.git",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-view-shot": "^3.1.2",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "react-native",
+    "ESC",
+    "POS",
+    "Bluetooth",
+    "Printer",
+    "react-native-bluetooth-escpos-printer",
+    "example"
+  ]
+}
