@@ -13,7 +13,7 @@
     "dateformat": "^3.0.3",
     "html-to-image": "^0.1.1",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-bluetooth-escpos-printer": "git+https://github.com/rafikrafael/react-native-bluetooth-escpos-printer.git",
     "react-native-deprecated-custom-components": "^0.1.2",
     "react-native-view-shot": "^3.1.2",
